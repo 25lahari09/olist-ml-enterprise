@@ -1,0 +1,28 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local editor settings
+.vscode/
+
+# Large or local datasets
+data/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local notebook backups
+*_backup.ipynb
